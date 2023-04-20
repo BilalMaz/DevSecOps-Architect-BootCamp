@@ -1,4 +1,3 @@
 # DevSecOps-Architect-BootCamp
 
-https://github.com/BilalMaz/DevSecOps-Tools <br>
-https://github.com/BilalMaz/petereport
+<p style="text-align:center;"><img src="./logos/DevsecOpd_logo.png" alt="Logo"></p>
